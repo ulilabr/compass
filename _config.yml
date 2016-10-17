@@ -1,15 +1,15 @@
 # general configuration
-url: http://excentris.net
-baseurl: ''
+url: http://ulilabr.github.io
+baseurl: 'http://ulilabr.github.io/'
 
 # compass configuration
 compass:
   # an avatar or logo (optional)
   logo: "/images/compass.png"
   # author will appear under the avatar (optional)
-  author: "Compass"
+  author: "Ulil Albab Rabbani"
   # tagline will appear under the title (optional)
-  tagline: "The <a href='http://jekyllrb.com'>Jekyll</a> theme for your personal landing page"
+  tagline: "Personal Landing Page"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
